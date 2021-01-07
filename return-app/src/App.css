@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.navi {
+  background-color: black;
+}
+
+.rs-navbar.rs-navbar-default {
+  background-color: black;
+  color: white;
+}
+
+.rs-nav-item {
+  color: white;
+}
